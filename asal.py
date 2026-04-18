@@ -5,3 +5,6 @@ def tek_mi(x):
         print("tek")
 
 print("hello eren")
+a = 5 
+b = 4 
+print(a+b)

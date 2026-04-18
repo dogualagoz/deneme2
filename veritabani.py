@@ -1,0 +1,3 @@
+kullanici = ""
+sifre = ""
+email = ""
