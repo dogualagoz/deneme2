@@ -3,3 +3,5 @@ def tek_mi(x):
         print("çift")
     else:
         print("tek")
+
+print("hello eren")
